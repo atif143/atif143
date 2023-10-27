@@ -1,17 +1,4 @@
-<table>
-  <tr>
-    <td valign="center">
-      🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
-      🌱 I am currently learning **Java** and also interested in **Web Development**.
-      🎯 My Goal is to Contribute to as many **open source project** as possible.
-      ✨ I love to create different types of **contents**.
-<td >
-# this is my daily.dev card, you can edit this accordingly
-      <a href="https://app.daily.dev/Astrodevil"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Ånand's Dev Card"/></a>
-    </td>
-    
-  </tr>
-  </table>
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -64,6 +51,13 @@ I am a Graphic Denisgner ,Video Editor and Unity Game Developr <img src="[https:
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Adobe Illustrator" alt="Adobe Illustrator" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Adobe Premierpro" alt="Adobe Premierpro" width="40" color="pink" height="40"/>&nbsp;
 </div>
+
+## Stats📈
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=atif143&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="atif143" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=atif143show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="atif143" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=atif143&theme=highcontrast&hide_border=true" alt="atif143" />
+</p>
 
 ---
 
