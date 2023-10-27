@@ -43,11 +43,6 @@ I am a Graphic Denisgner ,Video Editor and Unity Game Developr <img src="[https:
 ### :hammer_and_wrench: Languages and Tools :
  <div>
    <img id="unity-icon" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>
-<style>
-#unity-icon {
-    filter: invert(100%); /* This inverts the colors, making the image white */
-}
-</style>
  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop" alt="Adobe Photoshop" width="40" height="40"/>&nbsp;
