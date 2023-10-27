@@ -42,7 +42,7 @@ I am a Graphic Denisgner ,Video Editor and Unity Game Developr <img src="[https:
 
 ### :hammer_and_wrench: Languages and Tools :
  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Adobe Illustrator" alt="Adobe Illustrator" width="40" height="40"/>&nbsp;
+  <img src="https://shorturl.at/abwTX" title="Adobe Illustrator" alt="Adobe Illustrator" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg" title="Adobe Premierpro" alt="Adobe Premierpro" width="40" height="40"/>&nbsp;
 </div>
 
