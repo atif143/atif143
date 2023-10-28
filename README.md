@@ -59,5 +59,5 @@ I am a Graphic Denisgner ,Video Editor and Unity Game Developr <img src="[https:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=atif143&theme=highcontrast)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atif143&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 
