@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="www.linkedin.com/in/muhammad-atif-rafique-279059153">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
@@ -31,13 +31,13 @@
 
 ### :man_technologist: About Me :
 I am a Graphic Denisgner ,Video Editor and Unity Game Developr <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://media.giphy.com/media/fAD9SMlNWp0k84Ra1G/giphy.gif)" width="30"> from Pakistan.
-- :telescope: I’m a Student and working as a Graphic and Video Editor.
+- :telescope: I’m a Student and working as a Graphic Designer and Video Editor.
 
 - :seedling: Exploring Game Development Techniques.
 
 - :zap: In my free time, I work on my Unity Game Projects.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/muhammad-atif-rafique-279059153)
 
 
 ---
