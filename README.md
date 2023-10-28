@@ -60,6 +60,8 @@ I am a Graphic Denisgner ,Video Editor and Unity Game Developr <img src="[https:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atif143&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![Muhammad Atif GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 ### 🏆: Trophies :
 [![trophy](https://github-profile-trophy.vercel.app/?username=atif143)](https://github.com/ryo-ma/github-profile-trophy)
 
