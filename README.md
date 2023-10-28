@@ -19,7 +19,7 @@
 
 <h1>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://images.squarespace-cdn.com/content/v1/5e5ae71a84c054209740dee2/1599154214047-CKM89ZQMQTQBBUNCBYI3/090320_Final.gif)" width="30px"/>
 </h1>
 </div>
 
