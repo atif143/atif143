@@ -37,7 +37,7 @@ I am a Graphic Denisgner ,Video Editor and Unity Game Developr <img src="[https:
 
 - :zap: In my free time, I work on my Unity Game Projects.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-atif-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/muhammad-atif-rafique-279059153)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Muhammad-Atif-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/muhammad-atif-rafique-279059153)
 
 
 ---
