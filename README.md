@@ -55,22 +55,15 @@ I am a Graphic Denisgner ,Video Editor and Unity Game Developr <img src="[https:
 ---
 
 ### :fire: My Stats :
-<div align="center">
+
 [![GitHub Streak](http://github-readme-stre  ak-stats.herokuapp.com?user=atif143&theme=dark&background=000000)](https://git.io/streak-stats)
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atif143&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 ![Muhammad Atif GitHub stats](https://github-readme-stats.vercel.app/api?username=atif143&show_icons=true&theme=radical)
-</div>
+
 ### 🏆: Trophies :
-<div align="center">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=atif143&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/atif143/atif143/output/snake.svg" alt="Snake animation" />
-
-###
