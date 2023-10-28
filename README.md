@@ -56,7 +56,7 @@ I am a Graphic Denisgner ,Video Editor and Unity Game Developr <img src="[https:
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-stre  ak-stats.herokuapp.com?user=atif143&theme=dark&background=000000)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-stre  ak-stats.herokuapp.com?user=atif143&theme=dark&background=000000)](https://git.io/streak-stats)
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atif143&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
