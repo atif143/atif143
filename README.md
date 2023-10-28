@@ -65,4 +65,10 @@ I am a Graphic Denisgner ,Video Editor and Unity Game Developr <img src="[https:
 [![trophy](https://github-profile-trophy.vercel.app/?username=atif143&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+###
+
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/atif143/atif143/output/snake.svg" alt="Snake animation" />
+
+###
