@@ -17,7 +17,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=atif143&style=flat-square&color=blue" alt=""/>
 
-<h1>
+?<h1>
   hey there 👋
 </h1>https://github.com/atif143/atif143/issues
 </div>
@@ -53,7 +53,7 @@ I am a Graphic Denisgner ,Video Editor and Unity Game Developr <img src="[https:
 
 ---
 
-### :fire: Hacktoberfest! :
+ <img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg"  />
 [![An image of @atif143's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/atif143)](https://holopin.io/@atif143)
 
 
