@@ -53,7 +53,7 @@ I am a Graphic Denisgner ,Video Editor and Unity Game Developr <img src="[https:
 
 ---
 
-<img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg"  />
+### :fire:Hacktoberfest! :
 [![An image of @atif143's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/atif143)](https://holopin.io/@atif143)
 
 
@@ -67,8 +67,6 @@ I am a Graphic Denisgner ,Video Editor and Unity Game Developr <img src="[https:
 
 ![Muhammad Atif GitHub stats](https://github-readme-stats.vercel.app/api?username=atif143&show_icons=true&theme=radical)
 
-### 🏆: Trophies :
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=atif143&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
