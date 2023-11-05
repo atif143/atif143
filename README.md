@@ -1,10 +1,5 @@
-
-
-<img src="https://komarev.com/ghpvc/?username=atif143&style=flat-square&color=blue" alt=""/>
-
-?<h1>
-  hey there 👋
-</h1>https://github.com/atif143/atif143/issues
+<h1>
+  Hi , Atif Here ! 👋
 </div>
 
 <div align="center">
