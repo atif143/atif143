@@ -2,7 +2,7 @@
  
 <h1>
   Hi , Atif Here ! 👋
-</h1>https://github.com/atif143/atif143/issues
+</h1>
 </div>
 <div align="center">
   <img src="https://images.squarespace-cdn.com/content/v1/5e5ae71a84c054209740dee2/1599154214047-CKM89ZQMQTQBBUNCBYI3/090320_Final.gif" width="250"/>
